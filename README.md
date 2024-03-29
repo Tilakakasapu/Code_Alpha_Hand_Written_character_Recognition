@@ -1,3 +1,3 @@
 ### to run:
-Open the trails.ipynb and run the entire code
+Open the training.ipynb and run the entire code
 
